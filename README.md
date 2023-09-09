@@ -62,3 +62,41 @@ Total Books = 8
 
 
 </Details>
+
+
+<details>
+  <summary>3rd Semester</summary>
+
+  | Subject Name                               | Subject Code |
+  | ----------------------------------------- | ------------ |
+  | Social Science                             | 25811        |
+  | Chemistry                                  | 25913        |
+  | Mathematics-III                            | 25931        |
+  | Application Development Using Python      | 26631        |
+  | IT Support Services                        | 26633        |
+  | Digital Electronics-I                      | 26831        |
+
+  
+  ### Only Practical Subjects
+    
+  | Subject Name                               | Subject Code |
+  | ----------------------------------------- | ------------ |
+  | Computer Graphics Design-II               | 26632        |
+  
+
+
+  
+### writing and practical subjects
+ | Subject Name                               | Subject Code |
+  | ----------------------------------------- | ------------ |
+  | Social Science                             | 25811        |
+  | Chemistry                                  | 25913        |
+  | Mathematics-III                            | 25931        |
+  | Application Development Using Python      | 26631        |
+  | IT Support Services                        | 26633        |
+  | Digital Electronics-I                      | 26831        |
+
+
+  Total Books= 7
+  
+</details>

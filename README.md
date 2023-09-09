@@ -100,3 +100,60 @@ Total Books = 8
   Total Books= 7
   
 </details>
+
+<details>
+  <summary>4th Semester</summary>
+
+  | Subject Name                               | Subject Code |
+  | ----------------------------------------- | ------------ |
+  | Business Communication                     | 25831        |
+  | Data Structure & Algorithm                 | 26642        |
+  | Computer Peripherals & Interfacing         | 26643        |
+  | Web Design & Development-I                 | 26644        |
+  | Digital Electronics-II                     | 26841        |
+  | Environmental Studies                      | 29041        |
+
+
+  
+  ### Only Practical Subjects
+  
+   | Subject Name                               | Subject Code |
+  | ----------------------------------------- | ------------ |
+  | Java Programming                           | 26641        |
+  
+
+  
+### writing and practical subjects
+ | Subject Name                               | Subject Code |
+  | ----------------------------------------- | ------------ |
+  | Business Communication                     | 25831        |
+  | Data Structure & Algorithm                 | 26642        |
+  | Computer Peripherals & Interfacing         | 26643        |
+  | Web Design & Development-I                 | 26644        |
+  | Digital Electronics-II                     | 26841        |
+  | Environmental Studies                      | 29041        |
+
+  Total Books = 7
+
+</details>
+
+<details>
+  <summary>5th Semester</summary>
+
+  | Subject Name                               | Subject Code |
+  | ----------------------------------------- | ------------ |
+  | Accounting                                  | 25841        |
+  | Application Development Using Java         | 26651        |
+  | Web Design & Development-II                | 26652        |
+  | Computer Architecture & Microprocessor     | 26653        |
+  | Data Communication                         | 26654        |
+  | Operating System                           | 26655        |
+  | Project Work-I                             | 26656        |
+
+
+
+</details>
+
+
+
+

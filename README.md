@@ -151,7 +151,63 @@ Total Books = 8
   | Project Work-I                             | 26656        |
 
 
+  ### Only Practical Subjects
 
+
+  
+### writing and practical subjects
+
+Total Books = 7
+
+</details>
+
+
+<details>
+  <summary>6th Semester</summary>
+
+  | Subject Name                                         | Subject Code |
+  | --------------------------------------------------- | ------------ |
+  | Principles of Marketing                              | 25851        |
+  | Industrial Management                                | 25852        |
+  | Database Management System                           | 26661        |
+  | Computer Networking                                   | 26662        |
+  | Sensor & IoT System                                  | 26663        |
+  | Microcontroller Based System Design & Development    | 26664        |
+  | Surveillance Security System                         | 26665        |
+  | Web Development Project                              | 26666        |
+
+
+  ### Only Practical Subjects
+
+  
+### writing and practical subjects
+
+Total Books= 8
+
+</details>
+
+<details>
+  <summary>7th Semester</summary>
+
+  | Subject Name                                 | Subject Code |
+  | ------------------------------------------- | ------------ |
+  | Innovation & Entrepreneurship                | 25853        |
+  | Digital Marketing Technique                  | 26671        |
+  | Network Administration & Services            | 26672        |
+  | Cyber Security & Ethics                      | 26673        |
+  | Apps Development Project                     | 26674        |
+  | Multimedia & Animation                       | 26675        |
+  | Project Work-II                              | 26676        |
+
+
+  ### Only Practical Subjects
+
+  
+### writing and practical subjects
+
+
+
+Total Books = 7
 </details>
 
 
